@@ -14,7 +14,7 @@ A simple Python project to generate a basic sales summary (total quantity & reve
 
 ---
 
-## 📁 Project Structure (Bash Tree Format)
+## 📁 Project Structure
 
 ```bash
 sales_summary_project/
